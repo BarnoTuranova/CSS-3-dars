@@ -1,0 +1,24 @@
+body{
+   display: flex;
+}
+.diyora{
+    border: 1px solid white;
+    height: 600px;
+    width: 200px;
+    margin-top: 30px;
+    box-shadow: 10px 10px 10px rgb(177, 174, 174);
+}
+.ml{
+    margin-left: 30px;
+}
+.ml1{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.oppo{
+    margin-left: 40px;
+}
+.barno{
+    position: relative;
+    left: 200px;
+}

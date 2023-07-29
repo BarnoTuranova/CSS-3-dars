@@ -1,0 +1,25 @@
+.barno{
+    display: flex;
+}
+h4{
+    background-color: greenyellow;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    margin-left: 2px;
+    text-align: center;
+    margin-bottom: 0;
+}
+.br{
+    margin-bottom: 0;
+}
+.iki{
+    margin-bottom: 0;
+}
+.uch{
+    margin-bottom: 0;
+}
+.tort{
+    margin-bottom: 0;
+
+}

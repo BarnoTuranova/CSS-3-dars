@@ -1,0 +1,13 @@
+.barno{
+    border: 1px solid lightgrey;
+    margin-left: 20px;
+}
+body{
+    display: flex;
+}
+p{
+    text-align: center;
+}
+.diyora{
+    padding: 10px 5px;
+}

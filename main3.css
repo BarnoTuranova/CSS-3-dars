@@ -1,0 +1,26 @@
+.barno{
+    display: flex;
+    margin-left: 20px;
+}
+p{
+    color: rgb(68, 68, 237);
+}
+.diyora{
+    border: 1px solid gainsboro;
+    width: 200px;
+    height: 300px;
+}
+button{
+    border-color: rgb(79, 79, 255);
+    color: rgb(83, 83, 248);
+    background-color: white;
+}
+.hey{
+    margin-left: 20px;
+}
+span{
+    text-align: center;
+}
+.baqrma{
+    margin-left: 20px;
+}
